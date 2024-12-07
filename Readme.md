@@ -60,7 +60,7 @@ TELEMETRY ANNOUNCEMENTS
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_12.jpg)
 
-Similar to the above, allows the status widget to play various Telemetry announcements depending on your TX switch positions, this could include, for example, using the rear panel SJ momentary switch to announce Fuel or Voltage.
+Similar to the above, allows the status widget to play various Telemetry announcements depending on your TX switch positions, this could include, for example, using the rear panel SJ momentary switch to announce Fuel and/or Voltage.
 
 
 GOVERNOR ANNOUNCEMENTS
@@ -68,6 +68,13 @@ GOVERNOR ANNOUNCEMENTS
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_13.jpg)
 
 Similar to the above but recommended to enable as per your preferences.These are primarily intended for use when using the Rotorflight Governor - If using an External ESC governor you will receive basic announcements.
+
+CUSTOMISE DISPLAY
+
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_13.jpg)
+
+This is the main widget display which has 6 pre-defined boxes each of which can display a range of items for your preference.
+
 
 
 ### RFStatus Description
