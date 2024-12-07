@@ -54,8 +54,20 @@ SWITCH ANNOUNCEMENTS
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_11.jpg)
 
-This section allows you (or not) to have the status widget play announcements depending on your switch positions.
+This section allows you to have the status widget play announcements depending on your TX switch positions.
 
+TELEMETRY ANNOUNCEMENTS
+
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_12.jpg)
+
+Similar to the above, allows the status widget to play various Telemetry announcements depending on your TX switch positions, this could include, for example, using the rear panel SJ momentary switch to announce Fuel or Voltage.
+
+
+GOVERNOR ANNOUNCEMENTS
+
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_13.jpg)
+
+Similar to the above but recommended to enable as per your preferences.These are primarily intended for use when using the Rotorflight Governor - If using an External ESC governor you will receive basic announcements.
 
 
 ### RFStatus Description
