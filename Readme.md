@@ -81,4 +81,19 @@ The additional display options allow the widget to display the min\max of the se
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Display2.jpg)
 
+ADVANCED OPTIONS
+
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Advanced.jpg)
+
+This is where you select Rotorflight Int or External governor for the widget, as well as any temp conversion from Centigrade to Fahrenheit.
+
+The Voltage section allows you to choose how sensitive the low voltage alarms will be depending on the voltage sag whilst in flight.The sag compensation is a time delay before the alarms are announced.
+
+Gimbal monitor effectivly monitors your stick positions based on the drop down selection, and alerts if the given value is met. Normally disabled.
+
+The Headspeed option allows you to set where the announcement will tell you when the headspeed has changed, 10% default, usefull to monitor if the Governor is maintaining the requested headspeed during fast 3D manoeuvres. Could point to Governor PID tuning.
+
+Calculate fuel locally can be used in the event your ESC does not send a current measurement.
+
+
 
