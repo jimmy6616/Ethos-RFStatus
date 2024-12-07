@@ -13,9 +13,9 @@ Before proceeding please ensure the Heli, RX and fbl are powered on and connecte
 
 From the main screen press the DISP button and a screen similar to this will be shown.
 
-![image](.img/Main_Screen_2.jpg)
+!(.img/Main_Screen_2.jpg)
 
-![Ethos](./img/Main_Screen_2.jpg)
+
 
 
 ### RFStatus Description
