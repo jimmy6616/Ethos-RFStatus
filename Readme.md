@@ -32,11 +32,17 @@ The following screen is the main configuration options for the Rotorflight Statu
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_7.jpg)
 
-#Triggers
+TRIGGERS
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_8.jpg)
 
-These items 
+The ARM and IDLE-UP siwtch positions MUST be entered as per your Rotorflight configurator setup, in this example SE is ARM (Motor) and SD is IDLE-UP or Throttle Enable. Delay before active is the time taken for your motor to reach idle-up RPM. Current measurements will be started after this timeout.
+
+TIMER CONFIGURATION
+
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_9.jpg)
+
+This is a count UP timer and will alarm at the set point, you can disable if using another Ethos timer.
 
 
 
