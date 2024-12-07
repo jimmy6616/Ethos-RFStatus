@@ -44,6 +44,15 @@ TIMER CONFIGURATION
 
 This is a count UP timer and will alarm at the set point, you can disable if using another Ethos timer.
 
+BATTERY CONFIGURATION
+
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_10.jpg)
+
+Enter your Battery \ Voltage settings and preferences, the 'Play alert on' can be configured for your preference.
+
+SWITCH ANNOUNCEMENTS
+
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_11.jpg)
 
 
 
