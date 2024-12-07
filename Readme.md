@@ -13,9 +13,9 @@ Before proceeding please ensure the Heli, RX and fbl are powered on and connecte
 
 From the main screen press the DISP button and a screen similar to this will be shown.
 
-[Image](./img/Main_Screen_2.jpg)
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_2.jpg)
 
-Main_Screen_2.jpg
+
 
 
 
