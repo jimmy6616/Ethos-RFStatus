@@ -15,6 +15,11 @@ From the main screen press the DISP button and a screen similar to this will be 
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_2.jpg)
 
+Press the + symbol to add another screen and select the full screen icon as shown.
+
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_3.jpg)
+
+
 
 
 
