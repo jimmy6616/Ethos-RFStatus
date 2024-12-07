@@ -73,10 +73,12 @@ CUSTOMISE DISPLAY
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Display.jpg)
 
-This is the main widget display which has 6 pre-defined boxes each of which can display a range of items for your preference.
+This is the main widget display which has 6 pre-defined boxes each of which can display a range of items for your layout preference.
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/RFStatus.jpg)
 
+The additional display options 
+
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Display2.jpg)
 
 
-### RFStatus Description
