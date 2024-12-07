@@ -32,6 +32,11 @@ The following screen is the main configuration options for the Rotorflight Statu
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_7.jpg)
 
+#Triggers
+
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_8.jpg)
+
+These items 
 
 
 
