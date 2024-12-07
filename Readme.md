@@ -77,7 +77,7 @@ This is the main widget display which has 6 pre-defined boxes each of which can 
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/RFStatus.jpg)
 
-The additional display options 
+The additional display options allow the widget to display the min\max of the sensors as well as colours to indicate status or low battery. You also have the option to add additional sensors from Telemetry and choose these to display in the main screen.
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Display2.jpg)
 
