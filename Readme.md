@@ -28,6 +28,10 @@ The following screen is shown, select Configure
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_6.jpg)
 
+The following screen is the main configuration options for the Rotorflight Status widget
+
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_7.jpg)
+
 
 
 
