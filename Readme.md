@@ -85,7 +85,7 @@ ADVANCED OPTIONS
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Advanced.jpg)
 
-This is where you select Rotorflight Int or External governor for the widget, as well as any temp conversion from Centigrade to Fahrenheit.
+This is where you select Rotorflight Internal or an External governor for the widget, as well as any temp conversion from Centigrade to Fahrenheit.
 
 The Voltage section allows you to choose how sensitive the low voltage alarms will be depending on the voltage sag whilst in flight.The sag compensation is a time delay before the alarms are announced.
 
