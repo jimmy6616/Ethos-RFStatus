@@ -71,7 +71,7 @@ Similar to the above but recommended to enable as per your preferences.These are
 
 CUSTOMISE DISPLAY
 
-![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_14.jpg)
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Display.jpg)
 
 This is the main widget display which has 6 pre-defined boxes each of which can display a range of items for your preference.
 
