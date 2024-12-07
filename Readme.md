@@ -19,6 +19,15 @@ Press the + symbol to add another screen and select the full screen icon as show
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_3.jpg)
 
+Select Change Widget, scroll thru the list and select Rotorflight Status
+
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_4.jpg)
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_5.jpg)
+
+The following screen is shown, select Configure
+
+![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_6.jpg)
+
 
 
 
