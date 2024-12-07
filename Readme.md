@@ -54,7 +54,7 @@ SWITCH ANNOUNCEMENTS
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_11.jpg)
 
-
+This section allows you (or not) to have the status widget play announcements depending on your switch positions.
 
 
 
