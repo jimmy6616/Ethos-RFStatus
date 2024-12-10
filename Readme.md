@@ -67,7 +67,7 @@ GOVERNOR ANNOUNCEMENTS
 
 ![Image](https://github.com/jimmy6616/Ethos-RFStatus/blob/IMG/Main_Screen_13.jpg)
 
-Similar to the above but recommended to enable as per your preferences.These are primarily intended for use when using the Rotorflight Governor - If using an External ESC governor you will receive basic announcements.
+Similar to the above but recommended to enable as per your preferences.These are primarily intended for use when using the Rotorflight Governor - If using an External ESC governor you will receive basic announcements of ARMED, DISARMED, ACTIVE and THROTTLE OFF.
 
 CUSTOMISE DISPLAY
 
